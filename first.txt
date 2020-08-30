@@ -1,1 +1,3 @@
 practicing github
+
+fotr practicing the command "git pull" i am updating first.txt from github 
